@@ -8,7 +8,7 @@ Aqui estão as estruturas disponíveis neste repositório:
 
 * **[Flutter](estrutura-flutter.md):** Estrutura de projeto para aplicativos mobile usando Flutter.  Inclui diretórios para modelos, telas, widgets, serviços, e mais, promovendo a separação de responsabilidades e a organização do código.
 * **[React Native](estrutura-react-native.md):** Estrutura para desenvolvimento mobile multiplataforma com React Native. Organiza componentes, telas, navegação, serviços e outros recursos para facilitar a manutenção e escalabilidade do projeto.
-* **[Aplicativo Mobile Nativo (Android e iOS)](/estrutura-aplicativo-mobile-nativo.md):**  Estrutura básica para projetos mobile nativos, separando o código Android (Java/Kotlin) e iOS (Swift/Objective-C) e incluindo os recursos e configurações essenciais para cada plataforma.
+* **[Aplicativo Streamlit](estrutura-streamlit.md):**  Estrutura básica para projetos Streamlit, facilitando a organização e manutenção do seu código para dashboards e aplicativos web interativos..
 
 
 ## Como Usar (ainda em construção)
