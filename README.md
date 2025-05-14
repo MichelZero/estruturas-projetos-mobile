@@ -11,7 +11,8 @@ Aqui estão as estruturas disponíveis neste repositório:
 * **[Aplicativo Mobile Nativo (Android e iOS)](/estrutura-aplicativo-mobile-nativo.md):**  Estrutura básica para projetos mobile nativos, separando o código Android (Java/Kotlin) e iOS (Swift/Objective-C) e incluindo os recursos e configurações essenciais para cada plataforma.
 
 
-## Como Usar
+## Como Usar (ainda em construção)
+Para usar uma das estruturas de projeto, siga os passos abaixo:
 
 1. **Clone este repositório:** `git clone https://github.com/MichelZero/estruturas-projetos-mobile.git`
 
